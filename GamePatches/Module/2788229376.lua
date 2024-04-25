@@ -5,7 +5,7 @@
 ]]
 
 -- // Dependencies
-local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/Stefanuk12/Aiming/main/Module.lua"))()
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/t1k3rr/xyz.v1/main/Module.lua"))()
 
 -- // Disable Team Check
 Aiming.Settings.Ignored.IgnoreLocalTeam = false
